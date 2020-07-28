@@ -1,0 +1,162 @@
+{
+  "categorias": [
+    {
+      "titulo": "Filmes",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Front End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "O amor é a única coisa que transcende o tempo e o espaço.",
+          "url": "https://www.youtube.com/watch?v=hHBsKHVLAYc"
+        },
+        {
+          "titulo": "Interestelar",
+          "url": "https://www.youtube.com/watch?v=hHBsKHVLAYc"
+        },
+        {
+          "titulo": "A Origem",
+          "url": "https://www.youtube.com/watch?v=1o-BXdu_bC0"
+        },
+        {
+          "titulo": "Seven",
+          "url": "https://www.youtube.com/watch?v=vr3UZ-axauU"
+        },
+        {
+          "titulo": "Watchmen",
+          "url": "https://www.youtube.com/watch?v=NUjMO_k9IF8"
+        },
+        {
+          "titulo": "Pulp Fiction",
+          "url": "https://www.youtube.com/watch?v=s7EdQ4FqbhY"
+        },
+        {
+          "titulo": "Forrest Gump",
+          "url": "https://www.youtube.com/watch?v=bLvqoHBptjg"
+        },
+        {
+          "titulo": "Jogador N°1",
+          "url": "https://www.youtube.com/watch?v=MvVMvCMBJ4U"
+        }        
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Dark",
+          "url": "https://www.youtube.com/watch?v=ESEUoa-mz2c"
+        },
+        {
+          "titulo": "Sherlock Holmes",
+          "url": "https://www.youtube.com/watch?v=7hjPxUfV32Q"
+        },
+        {
+          "titulo": "Mr Robot",
+          "url": "https://www.youtube.com/watch?v=N6HGuJC--rk"
+        },
+        {
+          "titulo": "Demolidor",
+          "url": "https://www.youtube.com/watch?v=jAy6NJ_D5vU"
+        }, 
+        {
+          "titulo": "Justiceiro",
+          "url": "https://www.youtube.com/watch?v=sDp4AuNen0Y"
+        }
+      ]
+    },
+    {
+      "titulo": "Animes",
+      "cor": "red",
+      "link_extra": {
+        "text": "Assista aqui! crunchyroll",
+        "url": "https://www.crunchyroll.com/pt-br/"
+      },
+      "videos": [
+        {
+          "titulo": "Naruto Clássico",
+          "url": "https://www.youtube.com/watch?v=nmXLsM3SZZI"
+        },
+        {
+          "titulo": "Naruto Shippuden",
+          "url": "https://www.youtube.com/watch?v=i4WxQlh8zOc"
+        },
+        {
+          "titulo": "One Piece",
+          "url": "https://www.youtube.com/watch?v=6aQ_5jyamoU"
+        },
+        {
+          "titulo": "Bleach",
+          "url": "https://www.youtube.com/watch?v=QQdsAzMQZf8"
+        },
+        {
+          "titulo": "One Punch Man",
+          "url": "https://www.youtube.com/watch?v=FUpza22te6g"
+        }
+      ]
+    },
+    {
+      "titulo": "Jogos",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Halo 5",
+          "url": "https://www.youtube.com/watch?v=Rh_NXwqFvHc"
+        },
+        {
+          "titulo": "Far Cry",
+          "url": "https://www.youtube.com/watch?v=1uAPIickjPg"
+        },
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        }
+      ]
+    },
+    {
+      "titulo": "Jogos",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Halo 5",
+          "url": "https://www.youtube.com/watch?v=Rh_NXwqFvHc"
+        },
+        {
+          "titulo": "Far Cry",
+          "url": "https://www.youtube.com/watch?v=1uAPIickjPg"
+        },
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        }
+      ]
+    }
+  ]
+}
