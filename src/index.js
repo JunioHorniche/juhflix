@@ -10,9 +10,7 @@ import {
 import Home from './pages/Home';
 import CasdastroVideo from './pages/cadastro/Video'
 import CasdastroCategoria from './pages/cadastro/Categoria';
-
-// Desafio master blaster na descrição
-const Pagina404 = () => (<div>Página 404</div>)
+import Pagina404 from './pages/Pagina404'
 
 ReactDOM.render(
   <BrowserRouter>
